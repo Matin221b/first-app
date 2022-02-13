@@ -56,7 +56,7 @@ http://localhost:3000/
 
 2-و توضیح کلی درمورد این برنامه frist-app محتوای پوشه
 
-1*Mohtavaye poshe first-app:
+1*:first-app محتوای پوشه‌ی
 
 1_.vscode
 
