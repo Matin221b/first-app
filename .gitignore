@@ -3,4 +3,6 @@ node_modules
 dist
 dist-ssr
 *.local
-doc
+*file.*
+*.mp4
+*e.mp3
